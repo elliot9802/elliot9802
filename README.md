@@ -23,8 +23,9 @@ Welcome to my GitHub profile!
 ## Let's Connect!
 
 Feel free to reach out to me for collaborations or just a friendly chat about technology and development!
+- 📫 How to reach me: [[Your LinkedIn Profile/Email](https://www.linkedin.com/in/elliot-segerlind-8085568b/)]
 <!--
-- 📫 How to reach me: [Your LinkedIn Profile/Email]
+
 - ⚡ Fun fact: [A fun or interesting fact about you]
 
 -->
