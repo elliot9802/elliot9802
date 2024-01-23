@@ -80,6 +80,6 @@ elliotProfile.DisplaySkills();
 ```
 
 ## Let's Connect
-- 🤝 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/elliot-segerlind-8085568b/)) - Let's talk tech!
+- 🤝 [LinkedIn](https://www.linkedin.com/in/elliot-segerlind-8085568b/) - Let's talk tech!
 
 🌌 Drop a ⭐ on repos that catch your eye!
