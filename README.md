@@ -1,6 +1,6 @@
 # Hello World, I'm Elliot! 👋🌐
 
-`📍 Sweden | .NET Developer | Tech Explorer`
+`💻 Fullstack .NET Software Developer | 📍 Based in Sweden`
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Felliot9802&labelColor=%235c2d91&countColor=%23ffffff)
 
@@ -19,32 +19,36 @@
 </p>
 
 ## About Me
-- 👨‍💻 Finishing up my Yrkeshögskola course in .NET Development.
+- 👨‍💻 Finishing up my [Yrkeshögskola course in .NET Development](https://teknikhogskolan.se/utbildningar/net-utvecklare/).
 - 🚀 Interned at a company developing software for grant applications, facility bookings, and visitor management.
 - 🌐 Bilingual in English and Swedish for technical communication in software development.
+- 📘 Specializing in the .NET ecosystem: ASP.NET/.NET Core/Framework.
+  - Experienced in developing robust, scalable solutions across various .NET versions.
 
-## Current Focus
-- Mastering Cloud Computing with Azure ☁️
-- Enhancing skills in the .NET Ecosystem (Core, Framework, ASP.NET, MVC, Razor, Web API) 📖
-- Elevating my portfolio with diverse projects 📁
-- Constantly seeking innovative approaches to improve user experiences 🚀
+#### Current Focus
+- ☁️ Mastering Cloud Computing with Azure 
+- 📖 Enhancing skills in the .NET Ecosystem (Core, Framework, ASP.NET, MVC, Razor, Web API, Blazor) 
+- 📁 Elevating my portfolio with diverse projects 
+- 🚀 Constantly seeking innovative approaches to improve user experiences 
 
-## Internship Highlights
+#### Internship Highlights
 - 🔍 Started with a challenge to find the best PDF generation library, leading me to choose Syncfusion for its efficiency.
 - 🛠️ Ventured into creating PDFs from the ground up, enhancing the process's speed and customization.
 - ✨ I believe in self-initiative and striving to exceed what's expected, pushing the envelope for better solutions.
 
 ## Tech Stack
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-007FFF?style=flat&logo=microsoftazure&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt=".NET Shield" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular Shield" />
+  <img src="https://img.shields.io/badge/Azure-007FFF?style=flat&logo=microsoftazure&logoColor=white" alt="Azure Shield" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Shield" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliot9802&layout=compact" alt="Top Languages statistics" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliot9802&layout=compact)
-
-## My .NET Journey in C#
+<!--
+#### My .NET Journey in C#
 ```csharp
 public class DevProfile
 {
@@ -78,8 +82,8 @@ public class DevProfile
 var elliotProfile = new DevProfile();
 elliotProfile.DisplaySkills();
 ```
-
-## Let's Connect
+-->
+# Let's Connect
 - 🤝 [LinkedIn](https://www.linkedin.com/in/elliot-segerlind-8085568b/) - Let's talk tech!
 
 🌌 Drop a ⭐ on repos that catch your eye!
