@@ -1,4 +1,4 @@
-# Hello World, I'm Elliot! 👋🌐
+# Hello, I'm Elliot! 👋
 
 `💻 Fullstack .NET Software Developer | 📍 Based in Sweden`
 
@@ -20,7 +20,7 @@
 
 ## About Me
 - 👨‍💻 Finishing up my [Yrkeshögskola course in .NET Development](https://teknikhogskolan.se/utbildningar/net-utvecklare/).
-- 🚀 Interned at a company developing software for grant applications, facility bookings, and visitor management.
+- 🚀 Interning at a company developing software for grant applications, facility bookings, and visitor management.
 - 🌐 Bilingual in English and Swedish for technical communication in software development.
 - 📘 Specializing in the .NET ecosystem: ASP.NET/.NET Core/Framework.
   - Experienced in developing robust, scalable solutions across various .NET versions.
@@ -30,11 +30,6 @@
 - 📖 Enhancing skills in the .NET Ecosystem (Core, Framework, ASP.NET, MVC, Razor, Web API, Blazor) 
 - 📁 Elevating my portfolio with diverse projects 
 - 🚀 Constantly seeking innovative approaches to improve user experiences 
-
-#### Internship Highlights
-- 🔍 Started with a challenge to find the best PDF generation library, leading me to choose Syncfusion for its efficiency.
-- 🛠️ Ventured into creating PDFs from the ground up, enhancing the process's speed and customization.
-- ✨ I believe in self-initiative and striving to exceed what's expected, pushing the envelope for better solutions.
 
 ## Tech Stack
 <p align="center">
