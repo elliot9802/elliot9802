@@ -20,15 +20,16 @@
 
 ## About Me
 - 👨‍💻 Finishing up my [Yrkeshögskola course in .NET Development](https://teknikhogskolan.se/utbildningar/net-utvecklare/).
-- 🚀 Interning at a company developing software for grant applications, facility bookings, and visitor management.
+- 🚀 Working as a consultant for a software development firm specializing in grant applications, facility bookings, and visitor management solutions.
+- 🕵️‍♂️ Actively exploring full-time opportunities in the tech industry as a Software developer.
 - 🌐 Bilingual in English and Swedish for technical communication in software development.
 - 📘 Specializing in the .NET ecosystem: ASP.NET/.NET Core/Framework.
   - Experienced in developing robust, scalable solutions across various .NET versions.
 
 #### Current Focus
 - ☁️ Mastering Cloud Computing with Azure 
-- 📖 Enhancing skills in the .NET Ecosystem (Core, Framework, ASP.NET, MVC, Razor, Web API, Blazor) 
-- 📁 Elevating my portfolio with diverse projects 
+- 📖 Enhancing skills in the .NET Ecosystem
+- 📁 Elevating my portfolio with diverse projects
 - 🚀 Constantly seeking innovative approaches to improve user experiences 
 
 ## Tech Stack
